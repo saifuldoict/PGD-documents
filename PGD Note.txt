@@ -1,5 +1,5 @@
 Windows Activation key update করতে হলে
-mgguides activate windeos 11
+msguides activate windeos 11
 এখান থেকে Step 2.1: Copy the code below into a new text document. থেকে file copy করে 1click.cmd সেভ করতে হবে।
 
 * pc configuration check
